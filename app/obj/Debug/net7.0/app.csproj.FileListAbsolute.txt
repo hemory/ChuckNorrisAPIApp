@@ -1,0 +1,17 @@
+/workspaces/ChuckNorrisAPIApp/app/bin/Debug/net7.0/app
+/workspaces/ChuckNorrisAPIApp/app/bin/Debug/net7.0/app.deps.json
+/workspaces/ChuckNorrisAPIApp/app/bin/Debug/net7.0/app.runtimeconfig.json
+/workspaces/ChuckNorrisAPIApp/app/bin/Debug/net7.0/app.dll
+/workspaces/ChuckNorrisAPIApp/app/bin/Debug/net7.0/app.pdb
+/workspaces/ChuckNorrisAPIApp/app/obj/Debug/net7.0/app.csproj.AssemblyReference.cache
+/workspaces/ChuckNorrisAPIApp/app/obj/Debug/net7.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ChuckNorrisAPIApp/app/obj/Debug/net7.0/app.AssemblyInfoInputs.cache
+/workspaces/ChuckNorrisAPIApp/app/obj/Debug/net7.0/app.AssemblyInfo.cs
+/workspaces/ChuckNorrisAPIApp/app/obj/Debug/net7.0/app.csproj.CoreCompileInputs.cache
+/workspaces/ChuckNorrisAPIApp/app/obj/Debug/net7.0/app.dll
+/workspaces/ChuckNorrisAPIApp/app/obj/Debug/net7.0/refint/app.dll
+/workspaces/ChuckNorrisAPIApp/app/obj/Debug/net7.0/app.pdb
+/workspaces/ChuckNorrisAPIApp/app/obj/Debug/net7.0/app.genruntimeconfig.cache
+/workspaces/ChuckNorrisAPIApp/app/obj/Debug/net7.0/ref/app.dll
+/workspaces/ChuckNorrisAPIApp/app/bin/Debug/net7.0/Newtonsoft.Json.dll
+/workspaces/ChuckNorrisAPIApp/app/obj/Debug/net7.0/app.csproj.CopyComplete
